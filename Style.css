@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4.44rem;
+    padding: 0 2rem;
+    background-color: rgba(255, 237, 77, 0.945);
+    box-shadow: 0 2px 6px 0 rgb(0, 0, 0);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.header li {
+    display: inline-flex;
+    padding-right: 2.22rem;
+    padding-left: 2.22rem;
+}
+
+.header .logo {
+}
